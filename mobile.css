@@ -1,0 +1,28 @@
+@media (max-width: 600px) {
+    body{
+        background: rgb(116, 2, 2) !important;
+        font-size: 1rem;
+    }
+
+  .products{
+    display: inherit;
+    height: auto;
+  }
+  .product{
+    margin-top: auto;
+  }
+  .main_section{
+    padding: 4%;
+  }
+  .beneficios, .mentions{
+    display: inherit;
+  }
+}
+
+
+@media (max-width: 900px) {  /*/tablet*/
+  body{
+    background: rgb(56, 22, 177) !important;
+    font-size: 2rem;
+}
+}
